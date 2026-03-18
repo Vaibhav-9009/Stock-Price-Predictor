@@ -39,7 +39,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Then open **http://localhost:8501** in your browser.
+Then open **https://stock-price-predictor-6cfd7gpyddzxrcuhzaj5as.streamlit.app/** in your browser.
 
 ---
 
